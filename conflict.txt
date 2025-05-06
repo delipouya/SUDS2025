@@ -1,3 +1,4 @@
 this is the first line on main branch
 conflict line on the branch
 the corrected line for conflict in branch
+the conflic causing line on the main branch
